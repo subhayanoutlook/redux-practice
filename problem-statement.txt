@@ -1,0 +1,9 @@
+Details
+There are 4 cards. Each one has a message (which indicates their positions) and 3 buttons.
+On Click of a button the message of the card should change to that button’s name. Ex: On Clicking Button A in Left Top Card, Message Left Top should change to Button A.
+Every time there is a button click message should change. Ex: After the message has changed to Button A in the Left Top Card, again if Button B is clicked, the message should change to Button B.
+Along with the message changes in their own cards, following functionalities should also be achieved: -
+On clicking any button in the Left Down Card, messages in both Left Top and Left Down Card should change simultaneously.
+On clicking any button in the Right Top Card, messages in Left Top, Left Down and Right Top Card should change simultaneously.
+On clicking any button in the Right Down Card, messages in all Cards should change simultaneously.
+Optional: Add a Reset button below all the Cards. On clicking the Reset button, starting messages should be restored.
