@@ -8,7 +8,6 @@ import RightDownComponent from "./components/RightDownComponent";
 import {Provider} from "react-redux";
 import store from "./redux/store";
 
-const test="hello";
 
 class App extends Component {
     render() {
